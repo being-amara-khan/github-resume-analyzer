@@ -6,16 +6,16 @@ A Flask-based web application that analyzes GitHub profiles and displays key met
 
 <div align="center">
   <h3>Main Interface</h3>
-  <img src="Github%20Resume%20analyzer.jpeg" alt="GitHub Resume Analyzer Interface" width="600"/>
+  <img src="images/Github%20Resume%20analyzer.jpeg" alt="GitHub Resume Analyzer Interface" width="600"/>
   
   <h3>Results Page</h3>
-  <img src="Github%20resme%20analyser%202.jpeg" alt="GitHub Resume Analyzer Results" width="600"/>
+  <img src="images/Github%20resme%20analyser%202.jpeg" alt="GitHub Resume Analyzer Results" width="600"/>
   
   <h3>CI/CD Pipeline Configuration</h3>
-  <img src="webhook_.PNG" alt="GitHub Webhook Configuration" width="600"/>
+  <img src="images/webhook_.PNG" alt="GitHub Webhook Configuration" width="600"/>
   
   <h3>Pipeline Execution Logs</h3>
-  <img src="Github_Hook_logs.jpeg" alt="GitHub Hook Log" width="600"/>
+  <img src="images/Github_Hook_logs.jpeg" alt="GitHub Hook Log" width="600"/>
 </div>
 
 ## Project Overview
