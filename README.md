@@ -2,10 +2,19 @@
 
 A Flask-based web application that analyzes GitHub profiles and displays key metrics about a user's repositories and coding activity, implemented with a complete CI/CD pipeline.
 
-![GitHub Resume Analyzer Interface](Github_resume_analyser.png)
-![GitHub Resume Analyzer Results](Github_resume_analyser2.png)
+## Application Screenshots
+
+### Main Interface
+![GitHub Resume Analyzer Interface](Github%20Resume%20analyzer.jpeg)
+
+### Results Page
+![GitHub Resume Analyzer Results](Github%20resme%20analyser%202.jpeg)
+
+### CI/CD Pipeline Configuration
 ![GitHub Webhook Configuration](webhook_.PNG)
-![GitHub Hook Log](Github_Hook_log.png)
+
+### Pipeline Execution Logs
+![GitHub Hook Log](Github_Hook_logs.jpeg)
 
 ## Project Overview
 
